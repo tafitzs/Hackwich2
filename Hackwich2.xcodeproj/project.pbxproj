@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7502FDEB202D988800EBECFF /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7502FDEA202D988800EBECFF /* secondViewController.swift */; };
 		7FC3BCCD20167C6800D3775E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FC3BCCC20167C6800D3775E /* AppDelegate.swift */; };
 		7FC3BCCF20167C6800D3775E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FC3BCCE20167C6800D3775E /* ViewController.swift */; };
 		7FC3BCD220167C6800D3775E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FC3BCD020167C6800D3775E /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7502FDEA202D988800EBECFF /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
 		7FC3BCC920167C6800D3775E /* Hackwich2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hackwich2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FC3BCCC20167C6800D3775E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7FC3BCCE20167C6800D3775E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				7FC3BCCC20167C6800D3775E /* AppDelegate.swift */,
 				7FC3BCCE20167C6800D3775E /* ViewController.swift */,
 				7FC3BCD020167C6800D3775E /* Main.storyboard */,
+				7502FDEA202D988800EBECFF /* secondViewController.swift */,
 				7FC3BCD320167C6800D3775E /* Assets.xcassets */,
 				7FC3BCD520167C6800D3775E /* LaunchScreen.storyboard */,
 				7FC3BCD820167C6800D3775E /* Info.plist */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7FC3BCCF20167C6800D3775E /* ViewController.swift in Sources */,
+				7502FDEB202D988800EBECFF /* secondViewController.swift in Sources */,
 				7FC3BCCD20167C6800D3775E /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
